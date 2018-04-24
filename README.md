@@ -1,4 +1,4 @@
-# NIRScout-Algorithm-LSL-
+# NIRScout-Algorithm-LSL-PUBLIC
 
 This algorithm utilizes the NIRX Lab Streaming Layer (LSL), particularly pylsl, provided publicly by Christian Kothe in his github repository [pylsl](https://github.com/chkothe/pylsl).
 
